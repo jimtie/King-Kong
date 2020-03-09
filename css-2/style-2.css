@@ -1,0 +1,14 @@
+    canvas {
+    border:2px solid #d3d3d3;
+    background-color: #f1f1f1;
+    padding: 0 auto;
+    margin: 0 auto;
+    display: block;
+    background-image: url("../image/scene.png");
+  	background-size: 100% 100%
+
+}
+
+	p {
+text-align: center;
+}
