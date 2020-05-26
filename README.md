@@ -1,5 +1,5 @@
 ![GA logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
-# Project #0: King Kong Crush EM All!
+# King Kong - Crush EM All!
 
 ### 1. Wireframes
 	- link: https://app.moqups.com/fvbS12DWvT/view/page/a9de4d023
